@@ -53,7 +53,7 @@ gem 'autoprefixer-rails'
 # asset handling - javascript execution for e.g. linux
 gem 'execjs'
 gem 'libv8'
-gem 'therubyracer'
+gem 'mini_racer'
 
 # authentication - provider
 gem 'doorkeeper'
