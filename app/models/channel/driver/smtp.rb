@@ -68,6 +68,7 @@ class Channel::Driver::Smtp
       port: options[:port],
       domain: options[:domain],
       enable_starttls_auto: options[:enable_starttls_auto],
+      authentication: options[:authentication],
     }
 
     # set ssl if needed
