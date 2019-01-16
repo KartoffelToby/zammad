@@ -1,7 +1,7 @@
 # Change Log
 
-## [2.8.0](https://github.com/zammad/zammad/tree/2.8.0) (2018-12-03)
-[Full Changelog](https://github.com/zammad/zammad/compare/2.7.0...2.8.0)
+## [2.9.0](https://github.com/zammad/zammad/tree/2.9.0) (2018-xx-xx)
+[Full Changelog](https://github.com/zammad/zammad/compare/2.8.0...2.9.0)
 
 **Implemented enhancements:**
 - Twitter Account Activity API support [2023](https://github.com/zammad/zammad/issues/2023) [[channel](https://github.com/zammad/zammad/labels/channel)] [[enhancement](https://github.com/zammad/zammad/labels/enhancement)]
